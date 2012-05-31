@@ -20,7 +20,7 @@
 #pragma mark - 
 #pragma mark Control Actions
 
-
+//
 //This method is that press "Control" button in the Welcome Screen to go to the Controlling Screen.
 -(IBAction)goToMainController:(id)sender{
 	
